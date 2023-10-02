@@ -1,6 +1,6 @@
 ## 💫 About me :
 - 👋 Hi, I’m @Myst4ke
-- 🌱 I’m currently Studying CS at university
+- 🌱 I’m currently Studying AI at university
 - ✨ I'm working on few project
 - 📫 Do not hesitate to ask me questions about them here
 
